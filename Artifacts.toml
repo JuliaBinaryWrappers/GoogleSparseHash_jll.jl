@@ -1,0 +1,6 @@
+[GoogleSparseHash]
+git-tree-sha1 = "5aa17ee23588c6630950b18691416bd1b8fb9953"
+
+    [[GoogleSparseHash.download]]
+    sha256 = "8c29741e7b3ad7a36be98bbbddc352b590eb8d9298736daf66576d538f827fb4"
+    url = "https://github.com/JuliaBinaryWrappers/GoogleSparseHash_jll.jl/releases/download/GoogleSparseHash-v2.11.1+0/GoogleSparseHash.v2.11.1.any.tar.gz"
